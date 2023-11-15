@@ -2,9 +2,9 @@ variable "region" {
     default = "ap-southeast-1"
 }
 variable "access" {
-    default = "AKIATUBKQA5W4JBDCLUM"
+    default = "AKIATUBKQA5WYRR6D7WO"
 }
 variable "secret" {
-    default = "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"
+    default = "ZpVvRxRHEpes4FPEiTwLGM3XkF1FEeCtG/SMn67K"
 }
 variable "key" {}
